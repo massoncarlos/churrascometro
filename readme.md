@@ -8,3 +8,5 @@ O intuito desde projeto é fazer uma pagina usando arquivos:
 
 Esta aplicação faz o calculo dos itens para um churrasco com relação
 ao numero de adultos e crianças e o tempo do churrasco.
+
+https://massoncarlos.github.io/churrascometro/
