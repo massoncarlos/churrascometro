@@ -6,5 +6,5 @@ O intuito desde projeto é fazer uma pagina usando arquivos:
 .html
 .css
 
-Esta aplicação faz o calculo do itens para um churrasco com relação
+Esta aplicação faz o calculo dos itens para um churrasco com relação
 ao numero de adultos e crianças e o tempo do churrasco.
